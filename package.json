@@ -10,7 +10,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "piral-native": "^0.11.6-pre.1316",
+    "piral-native": "0.14.0",
     "react": "16.9.0",
     "react-dom": "^16.13.1",
     "react-native": "0.61.5",
